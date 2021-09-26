@@ -1,0 +1,132 @@
+# ESTRUCTURA BÁSICA:
+# Línea 1: pregunta
+# Línea 2: Opciones separadas por "," en donde la primera es la correcta
+# Línea 3: Dificultad: EASY, MEDIUM_EASY, MEDIUM, HARD, VERY_HARD
+# Línea 4: Cita o referencia bíblica. Si no hay dejar la línea vacía
+# Línea 5: Separador de pregunta ---
+#
+¿En qué año accedió Hitler y el partido nacional-socialista al poder?
+1933, 1936, 1939, 1930
+EASY
+
+---
+¿Con qué nombre fue conocido el pacto de no agresión entre alemanes y soviéticos?
+Pacto Ribbentrop-Mólotov, Pacto de Varsovia, Pacto de Brandeburgo, Pacto de Molotov
+VERY_HARD
+
+---
+Hitler sufrió muchos atentados (todos ellos fallidos). ¿Cuántos exactamente?
+43, 32, 23, 37
+MEDIUM
+
+---
+¿Qué capítulo es considerado el “Salón de la fama de la fe”?
+Hebreos 11, Mateo 11, Juan 11, Hechos 11
+EASY
+
+---
+¿A cuál animal Dios privó de inteligencia?
+Avestruz, Hormiga, Pavoreal, Leviatán
+MEDIUM_EASY
+
+---
+¿Cuál es el lugar más frío de la tierra?
+La Antártida, Canadá, Estonia, Mongolia
+EASY
+
+---
+¿Qué misionero evangelizó a los pieles rojas?
+David Brainerd, William Carey, John Wesley, George Whitefield
+VERY_HARD
+
+---
+La máxima evolución del Universo, lo constituye:
+El hombre, El espacio, La materia, El tiempo
+MEDIUM
+
+---
+Debido a las reacciones termonucleares las estrellas:
+emiten radiaciones electromagnéticas, se convierten en enanas blancas, adoptan formas esferoidales, desintegran isótopos pesados
+HARD
+
+---
+La constelación Cruz del Sur es visible desde uno de los siguientes países:
+Australia, Canadá, Alemania, Rusia
+MEDIUM
+Números 13:16
+---
+Cuando la luna se encuentra entre el sol y la tierra, se denomina:
+Conjunción, Apogeo, Perigeo, Oposición
+MEDIUM
+
+---
+La capa más externa del sol visible durante los eclipses, es la:
+corona, fotosfera, corteza solar, endósfera
+MEDIUM
+
+---
+¿En qué libro de la Biblia se menciona a más animales?
+Levítico 11, Génesis 7, Levítico 9, Proverbios 5
+VERY_HARD
+
+---
+¿El asesinato de qué dirigente fue uno de los desencadenantes de la Primera Guerra Mundial?
+Francisco Fernando, Guillermo II, Francisco José, Guillermo I
+HARD
+
+---
+¿Qué ejército usó por primera vez armas químicas?
+Francia (gases irritantes), Italia (gas mostaza), Alemania (cloro), EEUU(gas venenoso)
+EASY
+
+---
+¿Cuál era la capital rusa al inicio de la revolución de febrero de 1917?
+Petrogrado, Moscú, San Petersburgo, Kazán
+EASY
+
+---
+¿Cómo se llamaba el primer tanque en entrar en combate?
+El Mark I británico, El A7V alemán, El FT17 francés, T-90S Ruso
+VERY_HARD
+
+---
+¿Qué nombre recibió el telegrama que favoreció la entrada de Estados Unidos en el conflicto?
+Zimmermann, Hindenburg, Ludendorff, Hindendorff
+HARD
+
+---
+¿Cuanto mide la cancha de voleybol?
+18x9 metros, 18x11 metros, 18x15 metros, 18x5 metros
+EASY
+
+---
+¿Cual es la circuferencia de un balon de voleybol?
+65 a 67 centímetros, 67 a 69 centímetros, 60 a 65 centímetros, 69 a 75 centímetros
+VERY_HARD
+
+---
+¿Cuál de las siguientes hormonas está relacionada con la producción de leche?
+Prolactina, Calcitonita, Tirotropina, Oxitocina
+MEDIUM
+
+---
+Las ramificaciones cortas de una neurona reciben el nombre de:
+Dendritas, Sinapsis, Axones, Soma
+VERY_HARD
+
+---
+Una corriente directa produce:
+Un campo magnético,  Un campo gravitacional, Un campo eléctrico, Un campo electromagnético
+HARD
+Daniel 1:5
+---
+¿Qué animal tiene 47 dientes?
+Mosquito, Tiburon, Nutria, pez gato
+MEDIUM_EASY
+
+---
+Su corazón pesa más de 11 kg
+Jirafa, Jaguar, Jabali, Elefante
+HARD
+
+---
